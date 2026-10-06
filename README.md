@@ -1,6 +1,7 @@
 # Sales-PowerBI-Project
 
-Overview
+#Overview
+
 This repository contains a Power BI project designed to analyze sales data effectively. The project demonstrates data cleaning, transformation, and modeling to provide insightful visualizations. It utilizes various Power BI features, including KPI cards, line charts, donut charts, and bar graphs, to present the data in an easily digestible format.
 
 Table of Contents
@@ -27,11 +28,7 @@ To work with this Power BI project, you need:
 
 Power BI Desktop (latest version)
 Sample sales data in CSV/Excel format (provided in the data folder)
-Installation
-Clone this repository:
-bash
-Copy
-git clone https://github.com/yourusername/sales-powerbi-project.git
+
 Open the Power BI Desktop application.
 Load the provided sales data file (data/sales_data.csv or similar) into Power BI.
 Open the Power BI file (Sales_PowerBI_Report.pbix) located in the repository.
